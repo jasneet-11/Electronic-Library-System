@@ -7,7 +7,7 @@
 #include<fstream.h>
 class book
 {
-	char bno[6];//bookno.
+	char bno[8];//bookno.
 	char bname[50];//bookname
 	char aname[20];//authorname
 	public:
